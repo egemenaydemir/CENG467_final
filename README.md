@@ -1,4 +1,4 @@
-# final_CENG467
+# Text-to-SQL in The Medical Domain
 
 ## Project
 This repository provides tools for training, preprocessing, and evaluating EHRSQL-based models that generate SQL queries from clinical text and evaluate them with standard metrics.
