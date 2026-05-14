@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Byte-compiled / optimized / DLL files
+*.pyc
+*.pyo
+
+# IDEs
+.vscode/
+.idea/
+
+# Data and outputs
+outputs/
+data/
+dataset_info.csv
+
+# Large dataset / external repo (do NOT commit EHRSQL)
+EHRSQL/
+
+# Database files
+*.db
+*.sqlite
+
+# Model checkpoints and logs
+checkpoints/
+logs/
+
+# OS files
+.DS_Store
+Thumbs.db
